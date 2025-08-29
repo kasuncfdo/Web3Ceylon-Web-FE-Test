@@ -1,5 +1,6 @@
 # CeyLabs Next.js Starter Template
 
+
 This is our standard Next.js project structure and setup guidelines. Follow these to ensure consistency across our projects.
 
 ## Setup Guidelines
